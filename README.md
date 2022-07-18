@@ -1,4 +1,4 @@
-# Forum Sample Application Laravel | Vue | Nuxt
+# Backend - Forum Sample Application Laravel | Vue | Nuxt
 
 ## Included
 - Frontend: Vue Nuxt <img src="https://img.shields.io/badge/Nuxt-3-green"> <img src="https://img.shields.io/badge/Vue-3-brightgreen">
