@@ -5,7 +5,7 @@
 - Backend: Laravel 9 [![laravel-9](https://shields.io/#your-badge)]
 
 ## Pre-requirements
-- Vue 3 Nuxt
+- Vue 3 Nuxt (Frontend Only)
 - Laravel: Laravel Sanctum
 
 ## How to use
