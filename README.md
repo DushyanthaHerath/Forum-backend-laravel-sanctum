@@ -11,7 +11,9 @@
 ## How to use
 
 - Clone: __git clone https://github.com/DushyanthaHerath/Forum-backend-laravel-sanctum.git backend__
-- cd kindhub
+- cd backend
+- You can use Laravel Sail or Laradock to Setup the application environment
+- in Sail __./vendor/bin/sail up__
 - Copy __.env.example__ file to __.env__ and edit database credentials and APP_URL
 - Run __composer install__
 - Run __composer dump-autoload__
