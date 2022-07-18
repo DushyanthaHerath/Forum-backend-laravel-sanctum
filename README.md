@@ -2,7 +2,7 @@
 
 ## Included
 - Frontend: Vue Nuxt
-- Backend: Laravel 9 [![laravel-9](https://shields.io/#your-badge)]
+- Backend: Laravel 9 <img src="https://github.com/backslash-f/simage/blob/master/Resources/image_0.jpg" width="80">
 
 ## Pre-requirements
 - Vue 3 Nuxt (Frontend Only)
