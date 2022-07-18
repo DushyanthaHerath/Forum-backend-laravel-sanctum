@@ -8,6 +8,9 @@
 - Vue 3 Nuxt (Frontend Only)
 - Laravel: Laravel Sanctum
 
+## API Documentation
+- https://documenter.getpostman.com/view/15875743/UzQxL3Qp
+
 ## How to use
 
 - Clone: __git clone https://github.com/DushyanthaHerath/Forum-backend-laravel-sanctum.git backend__
